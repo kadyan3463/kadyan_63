@@ -1,0 +1,28 @@
+p {
+    color:red;
+}
+*{
+    color:green
+}
+a[href="style.css"]{
+    color:black;
+}
+li{
+    list-style:inside ;
+}
+.special{
+    color:black;
+}
+p:hover{
+    color:blue;
+    font-style: inherit;
+}
+body h2+p.special{
+    color:blueviolet;
+    background-color: aquamarine;
+    padding:9px;
+
+}
+#n{
+    font-size: 33px;
+}

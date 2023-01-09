@@ -1,0 +1,71 @@
+body{
+    background-size:contain;
+}
+header{ 
+    color:rgb(130, 39, 65);
+ 
+}
+nav{
+    text-align:left;
+}
+section h3{
+    font-size: 2em;
+    color:blueviolet
+}
+section p{
+    font-style:unset;
+    color:rgb(3, 10, 6)
+}
+h2{
+    font-size: 2em;
+    text-align: center;
+    color:rgb(23, 41, 41);
+    font-style:initial;
+}
+ul{
+    font-size: 2em;
+    color:lightcoral
+}
+.data{
+    font-size: 34px;
+    color:black;
+    word-spacing: 3em;
+}
+.content{
+   
+    color:rgb(12, 84, 81);
+   
+    border-width: 1mm;
+  
+    
+}
+.tab{
+    font-size: 2em;
+}
+
+.link{
+    color:wheat;
+    font-size: 1.5em;
+    background-color:teal;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.num{
+    font-size:3em;
+    text-align: center;
+}
+section h1:hover,h2:hover{
+    color:lightgreen;
+}
+aside{
+    text-align: center;
+}
+.main{
+    color:rgb(26, 43, 43);
+    font-size: larger;
+    font-stretch: extra-condensed;
+}
+footer{
+    padding:6px;
+    background-color:darkslategray;
+    background-size: contain;
+}
